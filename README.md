@@ -1,4 +1,4 @@
-\# Event Registration System on AWS
+# Event Registration System on AWS
 
 
 
@@ -12,7 +12,7 @@ Users can register for an event using a web form, their data is stored in an AWS
 
 
 
-\## 🚀 Features
+## 🚀 Features
 
 \- Event registration form (Name, Email, Phone, Address)
 
@@ -32,7 +32,7 @@ Users can register for an event using a web form, their data is stored in an AWS
 
 
 
-\## 🏗️ Architecture
+## 🏗️ Architecture
 
 User Browser
 
@@ -60,7 +60,7 @@ SNS (Email Notification)
 
 
 
-\## 🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 \- \*\*AWS EC2\*\* – Application hosting
 
@@ -76,33 +76,9 @@ SNS (Email Notification)
 
 \- \*\*Git \& GitHub\*\* – Version control
 
-
-
 ---
 
-
-
-\## 📂 Project Structure
-
-event-app/
-
-│── app.py
-
-│── templates/
-
-│ └── register.html
-
-│── README.md
-
-│── .gitignore
-
-
-
----
-
-
-
-\## ⚙️ Setup \& Run (High Level)
+## ⚙️ Setup \& Run (High Level)
 
 1\. Launch EC2 instance
 
@@ -124,7 +100,7 @@ event-app/
 
 
 
-\## 📧 Output
+## 📧 Output
 
 \- User submits registration form
 
@@ -134,27 +110,9 @@ event-app/
 
 
 
----
+## 👩‍💻 Author
 
-
-
-\## 🎤 Interview Explanation (Short)
-
-> I built an Event Registration System using AWS EC2, RDS, and SNS.  
-
-> The Flask application handles user input, stores data in a MySQL database, and sends email notifications using SNS.  
-
-> IAM roles are used for secure access without hardcoding credentials.
-
-
-
----
-
-
-
-\## 👩‍💻 Author
-
-\*\*Srushti Deshmukh\*\*  
+**Srushti Deshmukh**  
 
 GitHub: https://github.com/Srushtideshmukh44
 
