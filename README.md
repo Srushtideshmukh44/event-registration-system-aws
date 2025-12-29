@@ -2,7 +2,7 @@
 
 
 
-This project is a simple \*\*Event Registration System\*\* built using \*\*AWS services\*\* and a \*\*Flask web application\*\*.  
+This project is a simple **Event Registration System** built using **AWS services** and a **Flask web application**.  
 
 Users can register for an event using a web form, their data is stored in an AWS RDS MySQL database, and an email notification is sent using AWS SNS.
 
