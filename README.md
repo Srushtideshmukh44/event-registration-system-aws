@@ -62,19 +62,19 @@ SNS (Email Notification)
 
 ## 🛠️ Technologies Used
 
-\- \*\*AWS EC2\*\* – Application hosting
+\- **AWS EC2** – Application hosting
 
-\- \*\*AWS RDS (MySQL)\*\* – Database
+\- **AWS RDS (MySQL)** – Database
 
-\- \*\*AWS SNS\*\* – Email notifications
+\- **AWS SNS** – Email notifications
 
-\- \*\*AWS IAM\*\* – Role-based access
+\- **AWS IAM** – Role-based access
 
-\- \*\*Python Flask\*\* – Backend
+\- **Python Flask** – Backend
 
-\- \*\*HTML\*\* – Frontend
+\- **HTML** – Frontend
 
-\- \*\*Git \& GitHub\*\* – Version control
+\- **Git \& GitHub** – Version control
 
 ---
 
